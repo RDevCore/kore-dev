@@ -1,5 +1,5 @@
 // Copyright (c) 2014-2015 The Dash developers
-// Copyright (c) 2015-2018 The PIVX developers
+// Copyright (c) 2015-2018 The KORE developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -41,7 +41,6 @@ enum class TrxValidationStatus {
 static const CAmount PROPOSAL_FEE_TX = (50 * COIN);
 static const CAmount BUDGET_FEE_TX_OLD = (50 * COIN);
 static const CAmount BUDGET_FEE_TX = (5 * COIN);
-static const int64_t BUDGET_VOTE_UPDATE_MIN = 60 * 60;
 static map<uint256, int> mapPayment_History;
 
 extern std::vector<CBudgetProposalBroadcast> vecImmatureBudgetProposals;
@@ -370,7 +369,7 @@ public:
 
     //check to see if we should vote on this
     void AutoCheck();
-    //total pivx paid out by this budget
+    //total kore paid out by this budget
     CAmount GetTotalPayout();
     //vote on this finalized budget as a masternode
     void SubmitVote();
@@ -501,8 +500,8 @@ public:
         // Proposals must be at least a day old to make it into a budget
         if (Params().NetworkID() == CBaseChainParams::MAIN) return (nTime < GetTime() - (60 * 60 * 24));
 
-        // For testing purposes - 5 minutes
-        return (nTime < GetTime() - (60 * 5));
+        // For testing purposes - 1 minute
+        return (nTime < GetTime() - (60 * 1));
     }
 
     std::string GetName() { return strProposalName; }
