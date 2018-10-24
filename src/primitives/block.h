@@ -76,7 +76,7 @@ public:
 
     uint256 GetHash() const;
     uint256 GetHash_Legacy();
-	
+
     //uint256 GetVerifiedHash() const;
 
     uint256 GetMidHash() const;
@@ -143,7 +143,7 @@ public:
         block.nBits          = nBits;
         block.nNonce         = nNonce;
 	    block.nBirthdayA     = nBirthdayA;
-        block.nBirthdayB     = nBirthdayB; 
+        block.nBirthdayB     = nBirthdayB;
         return block;
     }
 
@@ -174,7 +174,7 @@ public:
     static uint256 CheckMerkleBranch(uint256 hash, const std::vector<uint256>& vMerkleBranch, int nIndex);
     std::string ToString() const;
     void print() const;
-   
+
 };
 
 
