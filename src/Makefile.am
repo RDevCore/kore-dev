@@ -115,6 +115,7 @@ BITCOIN_CORE_H = \
   compressor.h \
   primitives/block.h \
   primitives/transaction.h \
+  primitives/deterministicmint.h \
   core_io.h \
   crypter.h \
   obfuscation.h \
