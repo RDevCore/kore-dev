@@ -161,6 +161,7 @@ BITCOIN_CORE_H = \
   rpcprotocol.h \
   rpcserver.h \
   scheduler.h \
+  semiOrderedMap.h \
   script/interpreter.h \
   script/script.h \
   script/sigcache.h \
