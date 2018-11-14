@@ -2058,7 +2058,7 @@ Please check the address and try again.</source>
     <name>ShutdownWindow</name>
     <message>
         <source>Kore is shutting down...</source>
-        <translation>KORE core sammuu...</translation>
+        <translation>Kore sammuu...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2216,7 +2216,7 @@ Please check the address and try again.</source>
     </message>
     <message>
         <source>The Kore developers</source>
-        <translation>KORE core kehittäjät</translation>
+        <translation>Kore kehittäjät</translation>
     </message>
     <message>
         <source>[testnet]</source>

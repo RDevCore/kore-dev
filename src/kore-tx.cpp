@@ -47,7 +47,7 @@ static bool AppInitRawTx(int argc, char* argv[])
 
     if (argc < 2 || mapArgs.count("-?") || mapArgs.count("-help")) {
         // First part of help message is specific to this utility
-        std::string strUsage = _("Kore Core kore-tx utility version") + " " + FormatFullVersion() + "\n\n" +
+        std::string strUsage = _("Kore kore-tx utility version") + " " + FormatFullVersion() + "\n\n" +
                                _("Usage:") + "\n" +
                                "  kore-tx [options] <hex-tx> [commands]  " + _("Update hex-encoded kore transaction") + "\n" +
                                "  kore-tx [options] -create [commands]   " + _("Create hex-encoded kore transaction") + "\n" +

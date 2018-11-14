@@ -462,7 +462,7 @@
     </message>
     <message>
         <source>Kore client</source>
-        <translation>Client KORE core</translation>
+        <translation>Client Kore</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>

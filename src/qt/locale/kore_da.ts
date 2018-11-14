@@ -4795,7 +4795,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
     <message>
         <source>Cannot obtain a lock on data directory %s. Kore is probably already running.</source>
-        <translation>Kan ikke låse datamappen %s. KORE core kører sandsynligvis allerede.</translation>
+        <translation>Kan ikke låse datamappen %s. Kore kører sandsynligvis allerede.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4984,7 +4984,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
     <message>
         <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Kore will not work properly.</source>
-        <translation>Advarsel! Kontroller at computerens dato og tid er korrekt indstillet. Hvis tiden ikke er rigtig, vil KORE core ikke fungere ordentligt.</translation>
+        <translation>Advarsel! Kontroller at computerens dato og tid er korrekt indstillet. Hvis tiden ikke er rigtig, vil Kore ikke fungere ordentligt.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5224,7 +5224,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
     <message>
         <source>Error loading wallet.dat: Wallet requires newer version of Kore</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Tegnebogen kræver en nyere version af KORE core</translation>
+        <translation>Fejl ved indlæsning af wallet.dat: Tegnebogen kræver en nyere version af Kore</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5340,7 +5340,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
     <message>
         <source>Initialization sanity check failed. Kore is shutting down.</source>
-        <translation>Initiering af sanitetskontrollen fejlede. KORE core lukker ned. </translation>
+        <translation>Initiering af sanitetskontrollen fejlede. Kore lukker ned. </translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -6120,7 +6120,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
     </message>
     <message>
         <source>Wallet needed to be rewritten: restart Kore to complete</source>
-        <translation>Tegnebogen måtte genskrives. Genstart KORE core for at gøre færdig</translation>
+        <translation>Tegnebogen måtte genskrives. Genstart Kore for at gøre færdig</translation>
     </message>
     <message>
         <source>Wallet options:</source>

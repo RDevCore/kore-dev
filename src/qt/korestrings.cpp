@@ -30,7 +30,7 @@ QT_TRANSLATE_NOOP("kore-core", ""
 "notation for IPv6. This option can be specified multiple times (default: "
 "bind to all interfaces)"),
 QT_TRANSLATE_NOOP("kore-core", ""
-"Cannot obtain a lock on data directory %s. kore Core is probably already "
+"Cannot obtain a lock on data directory %s. Kore is probably already "
 "running."),
 QT_TRANSLATE_NOOP("kore-core", ""
 "Change automatic finalized budget voting behavior. mode=auto: Vote for only "
@@ -166,7 +166,7 @@ QT_TRANSLATE_NOOP("kore-core", ""
 "It is also recommended to set alertnotify so you are notified of problems;\n"
 "for example: alertnotify=echo %%s | mail -s \"kore Alert\" admin@foo.com\n"),
 QT_TRANSLATE_NOOP("kore-core", ""
-"Unable to bind to %s on this computer. kore Core is probably already running."),
+"Unable to bind to %s on this computer. Kore is probably already running."),
 QT_TRANSLATE_NOOP("kore-core", ""
 "Unable to locate enough Obfuscation denominated funds for this transaction."),
 QT_TRANSLATE_NOOP("kore-core", ""
@@ -186,7 +186,7 @@ QT_TRANSLATE_NOOP("kore-core", ""
 "pay if you send a transaction."),
 QT_TRANSLATE_NOOP("kore-core", ""
 "Warning: Please check that your computer's date and time are correct! If "
-"your clock is wrong kore Core will not work properly."),
+"your clock is wrong Kore will not work properly."),
 QT_TRANSLATE_NOOP("kore-core", ""
 "Warning: The network does not appear to fully agree! Some miners appear to "
 "be experiencing issues."),
@@ -240,7 +240,7 @@ QT_TRANSLATE_NOOP("kore-core", "Connect to a node to retrieve peer addresses, an
 QT_TRANSLATE_NOOP("kore-core", "Connection options:"),
 QT_TRANSLATE_NOOP("kore-core", "Copyright (C) 2009-%i The Bitcoin Core Developers"),
 QT_TRANSLATE_NOOP("kore-core", "Copyright (C) 2014-%i The Dash Core Developers"),
-QT_TRANSLATE_NOOP("kore-core", "Copyright (C) 2015-%i The kore Core Developers"),
+QT_TRANSLATE_NOOP("kore-core", "Copyright (C) 2015-%i The Kore Developers"),
 QT_TRANSLATE_NOOP("kore-core", "Corrupted block database detected"),
 QT_TRANSLATE_NOOP("kore-core", "Could not parse -rpcbind value %s as network address"),
 QT_TRANSLATE_NOOP("kore-core", "Could not parse masternode.conf"),
@@ -267,7 +267,7 @@ QT_TRANSLATE_NOOP("kore-core", "Error initializing wallet database environment %
 QT_TRANSLATE_NOOP("kore-core", "Error loading block database"),
 QT_TRANSLATE_NOOP("kore-core", "Error loading wallet.dat"),
 QT_TRANSLATE_NOOP("kore-core", "Error loading wallet.dat: Wallet corrupted"),
-QT_TRANSLATE_NOOP("kore-core", "Error loading wallet.dat: Wallet requires newer version of kore Core"),
+QT_TRANSLATE_NOOP("kore-core", "Error loading wallet.dat: Wallet requires newer version of Kore"),
 QT_TRANSLATE_NOOP("kore-core", "Error opening block database"),
 QT_TRANSLATE_NOOP("kore-core", "Error reading from database, shutting down."),
 QT_TRANSLATE_NOOP("kore-core", "Error recovering public key."),
@@ -295,7 +295,7 @@ QT_TRANSLATE_NOOP("kore-core", "Incompatible mode."),
 QT_TRANSLATE_NOOP("kore-core", "Incompatible version."),
 QT_TRANSLATE_NOOP("kore-core", "Incorrect or no genesis block found. Wrong datadir for network?"),
 QT_TRANSLATE_NOOP("kore-core", "Information"),
-QT_TRANSLATE_NOOP("kore-core", "Initialization sanity check failed. kore Core is shutting down."),
+QT_TRANSLATE_NOOP("kore-core", "Initialization sanity check failed. Kore is shutting down."),
 QT_TRANSLATE_NOOP("kore-core", "Input is not valid."),
 QT_TRANSLATE_NOOP("kore-core", "Insufficient funds."),
 QT_TRANSLATE_NOOP("kore-core", "Invalid -onion address: '%s'"),
@@ -438,7 +438,7 @@ QT_TRANSLATE_NOOP("kore-core", "Verifying blocks..."),
 QT_TRANSLATE_NOOP("kore-core", "Verifying wallet..."),
 QT_TRANSLATE_NOOP("kore-core", "Wallet %s resides outside data directory %s"),
 QT_TRANSLATE_NOOP("kore-core", "Wallet is locked."),
-QT_TRANSLATE_NOOP("kore-core", "Wallet needed to be rewritten: restart kore Core to complete"),
+QT_TRANSLATE_NOOP("kore-core", "Wallet needed to be rewritten: restart Kore to complete"),
 QT_TRANSLATE_NOOP("kore-core", "Wallet options:"),
 QT_TRANSLATE_NOOP("kore-core", "Wallet window title"),
 QT_TRANSLATE_NOOP("kore-core", "Warning"),

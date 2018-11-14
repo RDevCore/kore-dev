@@ -638,7 +638,7 @@
     </message>
     <message>
         <source>Kore</source>
-        <translation>KORE CORE</translation>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Send coins to a KORE address</source>
@@ -1201,7 +1201,7 @@ Adres: %4
     </message>
     <message>
         <source>Kore</source>
-        <translation>KORE CORE</translation>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -1276,7 +1276,7 @@ Adres: %4
     </message>
     <message>
         <source>Kore</source>
-        <translation>KORE CORE</translation>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -3901,7 +3901,7 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
     <name>SplashScreen</name>
     <message>
         <source>Kore</source>
-        <translation>KORE CORE</translation>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Version %1</source>
