@@ -645,8 +645,8 @@
         <translation>Skirtukų įrankių juosta</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Send coins to a KORE address</source>
@@ -669,12 +669,12 @@
         <translation>Naršyti masternod'us</translation>
     </message>
     <message>
-        <source>&amp;About KORE Core</source>
-        <translation>&amp;Apie KORE Core</translation>
+        <source>&amp;About Kore</source>
+        <translation>&amp;Apie Kore</translation>
     </message>
     <message>
-        <source>Show information about KORE Core</source>
-        <translation>Rodyti informaciją apie KORE Core</translation>
+        <source>Show information about Kore</source>
+        <translation>Rodyti informaciją apie Kore</translation>
     </message>
     <message>
         <source>Modify configuration options for KORE</source>
@@ -729,12 +729,12 @@
         <translation>Blokų naršyklės langas</translation>
     </message>
     <message>
-        <source>Show the KORE Core help message to get a list with possible KORE command-line options</source>
-        <translation>Rodyti KORE Core žinyną, kad gautumėte sąrašą su galimomis KORE komandinės eilutės parinktimis</translation>
+        <source>Show the Kore help message to get a list with possible KORE command-line options</source>
+        <translation>Rodyti Kore žinyną, kad gautumėte sąrašą su galimomis KORE komandinės eilutės parinktimis</translation>
     </message>
     <message>
-        <source>KORE Core client</source>
-        <translation>KORE Core piniginė</translation>
+        <source>Kore client</source>
+        <translation>Kore piniginė</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to KORE network</source>
@@ -1223,16 +1223,16 @@ MultiSend: %1</translation>
         <translation>versija</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bitai)</translation>
     </message>
     <message>
-        <source>About KORE Core</source>
-        <translation>Apie KORE Core</translation>
+        <source>About Kore</source>
+        <translation>Apie Kore</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1278,16 +1278,16 @@ MultiSend: %1</translation>
         <translation>Sveiki</translation>
     </message>
     <message>
-        <source>Welcome to KORE Core.</source>
-        <translation>Sveiki atvykę į KORE Core</translation>
+        <source>Welcome to Kore.</source>
+        <translation>Sveiki atvykę į Kore</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where KORE Core will store its data.</source>
-        <translation>Kadangi programa paleista pirmą kartą, galite pasirinkti kur KORE Core saugos savo duomenis.</translation>
+        <source>As this is the first time the program is launched, you can choose where Kore will store its data.</source>
+        <translation>Kadangi programa paleista pirmą kartą, galite pasirinkti kur Kore saugos savo duomenis.</translation>
     </message>
     <message>
-        <source>KORE Core will download and store a copy of the KORE block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>KORE Core atsisiųs ir saugos KORE blockchain'o kopiją. Šiame kataloge bus saugomas ne mažesnis kaip %1GB duomenų kiekis, kuris laikui bėgant augs. Piniginė taip pat bus saugoma šiame kataloge.</translation>
+        <source>Kore will download and store a copy of the KORE block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Kore atsisiųs ir saugos KORE blockchain'o kopiją. Šiame kataloge bus saugomas ne mažesnis kaip %1GB duomenų kiekis, kuris laikui bėgant augs. Piniginė taip pat bus saugoma šiame kataloge.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1298,8 +1298,8 @@ MultiSend: %1</translation>
         <translation>Naudoti pasirinktą duomenų katalogą:</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2588,7 +2588,7 @@ https://www.transifex.com/kore-project/kore-project-translations</translation>
     </message>
     <message>
         <source>Send as zero-fee transaction if possible</source>
-        <translation> Jei galima, siųsti pavedimą be pavedimo mokesčio</translation>
+        <translation> Jei galima, siųsti pavedimą be pavedimo mokesčio</translation>
     </message>
     <message>
         <source>(confirmation may take longer)</source>
@@ -2759,8 +2759,8 @@ https://www.transifex.com/kore-project/kore-project-translations</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     </context>
 <context>
@@ -3024,8 +3024,8 @@ https://www.transifex.com/kore-project/kore-project-translations</translation>
         <translation>Klaida kraunant wallet.dat: Piniginė yra sugadinta</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of KORE Core</source>
-        <translation>Klaida kraunant wallet.dat: Piniginė reikalauja naujesnės KORE Core versijos</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Kore</source>
+        <translation>Klaida kraunant wallet.dat: Piniginė reikalauja naujesnės Kore versijos</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -3256,8 +3256,8 @@ https://www.transifex.com/kore-project/kore-project-translations</translation>
         <translation>Piniginė užrakinta.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart KORE Core to complete</source>
-        <translation>Piniginę reikia perrašyti: paleiskite KORE Core iš naujo</translation>
+        <source>Wallet needed to be rewritten: restart Kore to complete</source>
+        <translation>Piniginę reikia perrašyti: paleiskite Kore iš naujo</translation>
     </message>
     <message>
         <source>Wallet options:</source>

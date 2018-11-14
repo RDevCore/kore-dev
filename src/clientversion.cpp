@@ -14,7 +14,7 @@
  * for both kored and kore-qt, to make it harder for attackers to
  * target servers or GUI users specifically.
  */
-const std::string CLIENT_NAME("KORE Core");
+const std::string CLIENT_NAME("Kore");
 
 /**
  * Client version number

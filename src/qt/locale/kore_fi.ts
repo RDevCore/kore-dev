@@ -565,7 +565,7 @@
         <translation>&amp;Apua</translation>
     </message>
     <message>
-        <source>KORE Core</source>
+        <source>Kore</source>
         <translation>KORE Ydin</translation>
     </message>
     <message>
@@ -585,11 +585,11 @@
         <translation>Selaa masternodeja</translation>
     </message>
     <message>
-        <source>&amp;About KORE Core</source>
-        <translation>KORE Core &amp;ytimestä</translation>
+        <source>&amp;About Kore</source>
+        <translation>Kore &amp;ytimestä</translation>
     </message>
     <message>
-        <source>Show information about KORE Core</source>
+        <source>Show information about Kore</source>
         <translation>Näytä tietoja KORE Ytimestä</translation>
     </message>
     <message>
@@ -645,11 +645,11 @@
         <translation>Lohkon tutkija näkymä</translation>
     </message>
     <message>
-        <source>Show the KORE Core help message to get a list with possible KORE command-line options</source>
+        <source>Show the Kore help message to get a list with possible KORE command-line options</source>
         <translation>Näytä KORE Ydin apuviesti saadaksesi lista mahdollisista KORE komentolinja komennoista.</translation>
     </message>
     <message>
-        <source>KORE Core client</source>
+        <source>Kore client</source>
         <translation>KORE Ydin asiakasohjelma</translation>
     </message>
     <message>
@@ -908,7 +908,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>KORE Core</source>
+        <source>Kore</source>
         <translation>KORE Ydin</translation>
     </message>
     <message>
@@ -927,11 +927,11 @@
         <translation>Tervetuloa</translation>
     </message>
     <message>
-        <source>Welcome to KORE Core.</source>
+        <source>Welcome to Kore.</source>
         <translation>Tervetuloa KORE Ytimeen.</translation>
     </message>
     <message>
-        <source>KORE Core</source>
+        <source>Kore</source>
         <translation>KORE Ydin</translation>
     </message>
     <message>
@@ -1141,7 +1141,7 @@ Please check the address and try again.</source>
     </message>
     <message>
         <source>This option is the quickest and will cost about ~0.025 KORE to anonymize 10000 KORE</source>
-        <translation>Tämä vaihtoehto on nopein ja maksaa noin ~0.025 KORE anonymoidaksesi 10000 KORE</translation>
+        <translation>Tämä vaihtoehto on nopein ja maksaa noin ~0.025 KORE anonymoidaksesi 10000 KORE</translation>
     </message>
     <message>
         <source>This option is moderately fast and will cost about 0.05 KORE to anonymize 10000 KORE</source>
@@ -2057,7 +2057,7 @@ Please check the address and try again.</source>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>KORE Core is shutting down...</source>
+        <source>Kore is shutting down...</source>
         <translation>KORE core sammuu...</translation>
     </message>
     <message>
@@ -2199,7 +2199,7 @@ Please check the address and try again.</source>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>KORE Core</source>
+        <source>Kore</source>
         <translation>KORE Ydin</translation>
     </message>
     <message>
@@ -2215,7 +2215,7 @@ Please check the address and try again.</source>
         <translation>Dash Core kehittäjät</translation>
     </message>
     <message>
-        <source>The KORE Core developers</source>
+        <source>The Kore developers</source>
         <translation>KORE core kehittäjät</translation>
     </message>
     <message>
@@ -2568,8 +2568,8 @@ Please check the address and try again.</source>
         <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko korruptoitunut</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of KORE Core</source>
-        <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko vaatii uudemman version KORE Coresta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Kore</source>
+        <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko vaatii uudemman version Koresta</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>

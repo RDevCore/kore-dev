@@ -557,8 +557,8 @@
         <translation>Tabs 工具列</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Send coins to a KORE address</source>
@@ -577,12 +577,12 @@
         <translation>瀏覽 Masternodes</translation>
     </message>
     <message>
-        <source>&amp;About KORE Core</source>
-        <translation>&amp;關於 KORE Core</translation>
+        <source>&amp;About Kore</source>
+        <translation>&amp;關於 Kore</translation>
     </message>
     <message>
-        <source>Show information about KORE Core</source>
-        <translation>顯示 KORE Core 相關資訊</translation>
+        <source>Show information about Kore</source>
+        <translation>顯示 Kore 相關資訊</translation>
     </message>
     <message>
         <source>Modify configuration options for KORE</source>
@@ -637,12 +637,12 @@
         <translation>區塊鏈瀏覽視窗</translation>
     </message>
     <message>
-        <source>Show the KORE Core help message to get a list with possible KORE command-line options</source>
-        <translation>顯示 KORE Core 幫助訊息以取得 KORE 命令列表選項</translation>
+        <source>Show the Kore help message to get a list with possible KORE command-line options</source>
+        <translation>顯示 Kore 幫助訊息以取得 KORE 命令列表選項</translation>
     </message>
     <message>
-        <source>KORE Core client</source>
-        <translation>KORE Core 客戶端</translation>
+        <source>Kore client</source>
+        <translation>Kore 客戶端</translation>
     </message>
     </context>
 <context>
@@ -671,15 +671,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     </context>
 <context>
@@ -893,8 +893,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     </context>
 <context>

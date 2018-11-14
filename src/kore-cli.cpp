@@ -72,10 +72,10 @@ static bool AppInitRPC(int argc, char* argv[])
     //
     ParseParameters(argc, argv);
     if (argc < 2 || mapArgs.count("-?") || mapArgs.count("-help") || mapArgs.count("-version")) {
-        std::string strUsage = _("KORE Core RPC client version") + " " + FormatFullVersion() + "\n";
+        std::string strUsage = _("Kore RPC client version") + " " + FormatFullVersion() + "\n";
         if (!mapArgs.count("-version")) {
             strUsage += "\n" + _("Usage:") + "\n" +
-                        "  kore-cli [options] <command> [params]  " + _("Send command to KORE Core") + "\n" +
+                        "  kore-cli [options] <command> [params]  " + _("Send command to Kore") + "\n" +
                         "  kore-cli [options] help                " + _("List commands") + "\n" +
                         "  kore-cli [options] help <command>      " + _("Get help for a command") + "\n";
 

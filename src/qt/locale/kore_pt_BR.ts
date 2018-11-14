@@ -613,8 +613,8 @@
         <translation>Ferramentas de abas</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Send coins to a KORE address</source>
@@ -637,12 +637,12 @@
         <translation>Procurar masternodes</translation>
     </message>
     <message>
-        <source>&amp;About KORE Core</source>
-        <translation>&amp;Sobre o KORE Core</translation>
+        <source>&amp;About Kore</source>
+        <translation>&amp;Sobre o Kore</translation>
     </message>
     <message>
-        <source>Show information about KORE Core</source>
-        <translation>Mostra informação sobre o KORE Core</translation>
+        <source>Show information about Kore</source>
+        <translation>Mostra informação sobre o Kore</translation>
     </message>
     <message>
         <source>Modify configuration options for KORE</source>
@@ -697,11 +697,11 @@
         <translation>Janela de exploração de blocos</translation>
     </message>
     <message>
-        <source>Show the KORE Core help message to get a list with possible KORE command-line options</source>
-        <translation>Mostra a ajuda da KORE Core para receber uma lista com possíveis opções de linha de comando KORE</translation>
+        <source>Show the Kore help message to get a list with possible KORE command-line options</source>
+        <translation>Mostra a ajuda da Kore para receber uma lista com possíveis opções de linha de comando KORE</translation>
     </message>
     <message>
-        <source>KORE Core client</source>
+        <source>Kore client</source>
         <translation>Cliente Core KORE</translation>
     </message>
     <message>
@@ -1164,16 +1164,16 @@ MultiSend: %1</translation>
         <translation>versão</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About KORE Core</source>
-        <translation>Sobre o KORE Core</translation>
+        <source>About Kore</source>
+        <translation>Sobre o Kore</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1215,16 +1215,16 @@ MultiSend: %1</translation>
         <translation>Bem-vindo</translation>
     </message>
     <message>
-        <source>Welcome to KORE Core.</source>
-        <translation>Bem-vindo ao KORE Core.</translation>
+        <source>Welcome to Kore.</source>
+        <translation>Bem-vindo ao Kore.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where KORE Core will store its data.</source>
-        <translation>Como essa é a primeira vez que o programa é utilizado, você pode escolher onde KORE Core vai armazenar os seus dados.</translation>
+        <source>As this is the first time the program is launched, you can choose where Kore will store its data.</source>
+        <translation>Como essa é a primeira vez que o programa é utilizado, você pode escolher onde Kore vai armazenar os seus dados.</translation>
     </message>
     <message>
-        <source>KORE Core will download and store a copy of the KORE block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>KORE Core vai baixar e armazenar uma cópia da blockchain KORE. Pelo menos %1GB de informação será armazenado neste diretório e irá aumentar com o tempo. A carteira também será armazenada neste diretório.</translation>
+        <source>Kore will download and store a copy of the KORE block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Kore vai baixar e armazenar uma cópia da blockchain KORE. Pelo menos %1GB de informação será armazenado neste diretório e irá aumentar com o tempo. A carteira também será armazenada neste diretório.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1235,8 +1235,8 @@ MultiSend: %1</translation>
         <translation>Usar um diretório personalizado de dados:</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2969,8 +2969,8 @@ https://www.transifex.com/kore-project/kore-project-translations</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>KORE Core is shutting down...</source>
-        <translation>KORE Core está desligando...</translation>
+        <source>Kore is shutting down...</source>
+        <translation>Kore está desligando...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3111,8 +3111,8 @@ https://www.transifex.com/kore-project/kore-project-translations</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3127,8 +3127,8 @@ https://www.transifex.com/kore-project/kore-project-translations</translation>
         <translation>Os desenvolvedores do Dash Core</translation>
     </message>
     <message>
-        <source>The KORE Core developers</source>
-        <translation>Os desenvolvedores do KORE Core</translation>
+        <source>The Kore developers</source>
+        <translation>Os desenvolvedores do Kore</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3712,7 +3712,7 @@ https://www.transifex.com/kore-project/kore-project-translations</translation>
         <translation>Aviso: -paytxfee está definido como muito alto! Está e a taxa de transação que você irá pagar se enviar uma transação.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong KORE Core will not work properly.</source>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Kore will not work properly.</source>
         <translation>Aviso: Favor verificar se o horário e data de seu computador estão corretos! Se o seu relógio estiver errado o Core KORE não vai funcionar corretamente.</translation>
     </message>
     <message>
@@ -3792,8 +3792,8 @@ https://www.transifex.com/kore-project/kore-project-translations</translation>
         <translation>Todos os direitos reservados (C) 2014-%i aos Desenvolvedores do Dash Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The KORE Core Developers</source>
-        <translation>Todos os direitos reservados (C) 2015-%i aos Desenvolvedores do KORE Core</translation>
+        <source>Copyright (C) 2015-%i The Kore Developers</source>
+        <translation>Todos os direitos reservados (C) 2015-%i aos Desenvolvedores do Kore</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -3852,8 +3852,8 @@ https://www.transifex.com/kore-project/kore-project-translations</translation>
         <translation>Erro no carregamento da wallet.dat: Carteira corrompida</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of KORE Core</source>
-        <translation>Erro ao carregar wallet.dat: A Carteira requer uma nova versão da KORE Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Kore</source>
+        <translation>Erro ao carregar wallet.dat: A Carteira requer uma nova versão da Kore</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -4342,8 +4342,8 @@ https://www.transifex.com/kore-project/kore-project-translations</translation>
         <translation>Carteira está travada.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart KORE Core to complete</source>
-        <translation>A carteira precisa ser reescrita: reinicia o KORE Core para completar</translation>
+        <source>Wallet needed to be rewritten: restart Kore to complete</source>
+        <translation>A carteira precisa ser reescrita: reinicia o Kore para completar</translation>
     </message>
     <message>
         <source>Wallet options:</source>

@@ -601,8 +601,8 @@
         <translation>Alatna traka kartica</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Send coins to a KORE address</source>
@@ -625,12 +625,12 @@
         <translation>Pregledajte masternode</translation>
     </message>
     <message>
-        <source>&amp;About KORE Core</source>
-        <translation>&amp; O KORE Coreu</translation>
+        <source>&amp;About Kore</source>
+        <translation>&amp; O Koreu</translation>
     </message>
     <message>
-        <source>Show information about KORE Core</source>
-        <translation>Prikaz informacija o KORE Coreu</translation>
+        <source>Show information about Kore</source>
+        <translation>Prikaz informacija o Koreu</translation>
     </message>
     <message>
         <source>Modify configuration options for KORE</source>
@@ -653,8 +653,8 @@
         <translation>Šifriranje i dešifriranje privatnih ključeva pomoću zaporke</translation>
     </message>
     <message>
-        <source>KORE Core client</source>
-        <translation>KORE Core klijent</translation>
+        <source>Kore client</source>
+        <translation>Kore klijent</translation>
     </message>
     <message>
         <source>Error</source>
@@ -751,15 +751,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1111,8 +1111,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>KORE Core is shutting down...</source>
-        <translation>KORE Core se gasi...</translation>
+        <source>Kore is shutting down...</source>
+        <translation>Kore se gasi...</translation>
     </message>
     </context>
 <context>
@@ -1197,8 +1197,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Version %1</source>

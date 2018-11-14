@@ -421,8 +421,8 @@
         <translation>A&amp;juda</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Send coins to a KORE address</source>
@@ -437,8 +437,8 @@
         <translation>&amp;Masternodes</translation>
     </message>
     <message>
-        <source>&amp;About KORE Core</source>
-        <translation>&amp;Sobre KORE Core</translation>
+        <source>&amp;About Kore</source>
+        <translation>&amp;Sobre Kore</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -461,7 +461,7 @@
         <translation>Obre el fitxer de configuració del Masternode</translation>
     </message>
     <message>
-        <source>KORE Core client</source>
+        <source>Kore client</source>
         <translation>Client KORE core</translation>
     </message>
     <message>
@@ -851,16 +851,16 @@
         <translation>versió</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About KORE Core</source>
-        <translation>Sobre KORE Core</translation>
+        <source>About Kore</source>
+        <translation>Sobre Kore</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -906,12 +906,12 @@
         <translation>Benvingut</translation>
     </message>
     <message>
-        <source>Welcome to KORE Core.</source>
-        <translation>Benvingut a KORE Core.</translation>
+        <source>Welcome to Kore.</source>
+        <translation>Benvingut a Kore.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where KORE Core will store its data.</source>
-        <translation>Al ser el primer cop que s'inicia el programa, pots escollir on es desaran les dades del KORE Core.</translation>
+        <source>As this is the first time the program is launched, you can choose where Kore will store its data.</source>
+        <translation>Al ser el primer cop que s'inicia el programa, pots escollir on es desaran les dades del Kore.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -922,8 +922,8 @@
         <translation>Usar una carpeta de dades personalitzada:</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1713,8 +1713,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>KORE Core is shutting down...</source>
-        <translation>KORE Core s'està tancant...</translation>
+        <source>Kore is shutting down...</source>
+        <translation>Kore s'està tancant...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1779,8 +1779,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Version %1</source>

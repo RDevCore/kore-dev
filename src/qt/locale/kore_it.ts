@@ -645,8 +645,8 @@
         <translation>Schede degli strumenti</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Send coins to a KORE address</source>
@@ -669,12 +669,12 @@
         <translation>Esplora i masternodes</translation>
     </message>
     <message>
-        <source>&amp;About KORE Core</source>
-        <translation>&amp;Informazioni KORE Core</translation>
+        <source>&amp;About Kore</source>
+        <translation>&amp;Informazioni Kore</translation>
     </message>
     <message>
-        <source>Show information about KORE Core</source>
-        <translation>Visualizza informazioni su KORE Core</translation>
+        <source>Show information about Kore</source>
+        <translation>Visualizza informazioni su Kore</translation>
     </message>
     <message>
         <source>Modify configuration options for KORE</source>
@@ -729,12 +729,12 @@
         <translation>Finestra Block Explorer</translation>
     </message>
     <message>
-        <source>Show the KORE Core help message to get a list with possible KORE command-line options</source>
-        <translation>Mostra il messaggio di aiuto KORE Core per ottenere un elenco con le possibili opzioni di riga di comando KORE</translation>
+        <source>Show the Kore help message to get a list with possible KORE command-line options</source>
+        <translation>Mostra il messaggio di aiuto Kore per ottenere un elenco con le possibili opzioni di riga di comando KORE</translation>
     </message>
     <message>
-        <source>KORE Core client</source>
-        <translation>KORE Core</translation>
+        <source>Kore client</source>
+        <translation>Kore</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to KORE network</source>
@@ -1211,16 +1211,16 @@ MultiSend: %1</translation>
         <translation>versione</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About KORE Core</source>
-        <translation>Informazioni su KORE Core</translation>
+        <source>About Kore</source>
+        <translation>Informazioni su Kore</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1266,16 +1266,16 @@ MultiSend: %1</translation>
         <translation>Benvenuto</translation>
     </message>
     <message>
-        <source>Welcome to KORE Core.</source>
+        <source>Welcome to Kore.</source>
         <translation>Benvenuto in KOREIX Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where KORE Core will store its data.</source>
-        <translation>Essendo il primo avvio dell'applicazione, puoi scegliere dove KORE Core salverà i propri dati.</translation>
+        <source>As this is the first time the program is launched, you can choose where Kore will store its data.</source>
+        <translation>Essendo il primo avvio dell'applicazione, puoi scegliere dove Kore salverà i propri dati.</translation>
     </message>
     <message>
-        <source>KORE Core will download and store a copy of the KORE block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>KORE Core scaricherà e salverà una copia della blockchain KORE. Verranno salvati almeno %1GB di dati in questa cartella, che cresceranno nel tempo. In questa cartella verrà salvato anche il portafoglio.</translation>
+        <source>Kore will download and store a copy of the KORE block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Kore scaricherà e salverà una copia della blockchain KORE. Verranno salvati almeno %1GB di dati in questa cartella, che cresceranno nel tempo. In questa cartella verrà salvato anche il portafoglio.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1286,8 +1286,8 @@ MultiSend: %1</translation>
         <translation>Utilizza una cartella dati personalizzata:</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2257,8 +2257,8 @@ MultiSend: %1</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     </context>
 <context>

@@ -645,7 +645,7 @@
         <translation>flik vertygsrad</translation>
     </message>
     <message>
-        <source>KORE Core</source>
+        <source>Kore</source>
         <translation>KORE Kärna</translation>
     </message>
     <message>
@@ -669,11 +669,11 @@
         <translation>Utforska masternoder</translation>
     </message>
     <message>
-        <source>&amp;About KORE Core</source>
+        <source>&amp;About Kore</source>
         <translation>Om KORE Kärnan</translation>
     </message>
     <message>
-        <source>Show information about KORE Core</source>
+        <source>Show information about Kore</source>
         <translation>Visa information om KORE Kärnan</translation>
     </message>
     <message>
@@ -729,11 +729,11 @@
         <translation>Blockera utforskarfönstret</translation>
     </message>
     <message>
-        <source>Show the KORE Core help message to get a list with possible KORE command-line options</source>
-        <translation>Visa KORE Core hjälp meddelande för att få en lista med möjliga KORE kommandorad alternativ</translation>
+        <source>Show the Kore help message to get a list with possible KORE command-line options</source>
+        <translation>Visa Kore hjälp meddelande för att få en lista med möjliga KORE kommandorad alternativ</translation>
     </message>
     <message>
-        <source>KORE Core client</source>
+        <source>Kore client</source>
         <translation>KORE kärn klient</translation>
     </message>
     <message numerus="yes">
@@ -1231,7 +1231,7 @@ MultiSend: %1</translation>
         <translation>version</translation>
     </message>
     <message>
-        <source>KORE Core</source>
+        <source>Kore</source>
         <translation>KORE Kärna</translation>
     </message>
     <message>
@@ -1239,7 +1239,7 @@ MultiSend: %1</translation>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About KORE Core</source>
+        <source>About Kore</source>
         <translation>Om KORE Kärna</translation>
     </message>
     <message>
@@ -1286,15 +1286,15 @@ MultiSend: %1</translation>
         <translation>Välkommen</translation>
     </message>
     <message>
-        <source>Welcome to KORE Core.</source>
+        <source>Welcome to Kore.</source>
         <translation>Välkommen till KORE Kärna.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where KORE Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Kore will store its data.</source>
         <translation>Eftersom detta är första gången programmet körs så kan du välja var KORE Kärnan ska spara sin data.</translation>
     </message>
     <message>
-        <source>KORE Core will download and store a copy of the KORE block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Kore will download and store a copy of the KORE block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation> Kärnan kommer ladda ner och spara en kopia av KORE block chain. Minst %1GB data kommer sparas i denna katalog och den kommer växa med tiden. Plånboken kommer också sparas i denna katalog.</translation>
     </message>
     <message>
@@ -1306,7 +1306,7 @@ MultiSend: %1</translation>
         <translation>Använd en skräddarsydd data katalog</translation>
     </message>
     <message>
-        <source>KORE Core</source>
+        <source>Kore</source>
         <translation>KORE Kärna</translation>
     </message>
     <message>
@@ -3871,7 +3871,7 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>KORE Core is shutting down...</source>
+        <source>Kore is shutting down...</source>
         <translation>KORE Kärna stängs ner...</translation>
     </message>
     <message>
@@ -4005,7 +4005,7 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>KORE Core</source>
+        <source>Kore</source>
         <translation>KORE Kärna</translation>
     </message>
     <message>
@@ -4021,7 +4021,7 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Dash Kärna utvecklarna</translation>
     </message>
     <message>
-        <source>The KORE Core developers</source>
+        <source>The Kore developers</source>
         <translation>KORE Kärna utvecklarna</translation>
     </message>
     <message>
@@ -4678,7 +4678,7 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Beräknade ackumulator kontrollstation är inte vad som sparats av block index</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. KORE Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Kore is probably already running.</source>
         <translation>Kan ej låsa in på data katalog %s. KORE Kärna körs förmodligen redan.</translation>
     </message>
     <message>
@@ -4850,7 +4850,7 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Denna produkt inkluderar mjukvara utvecklad av OpenSSL Projektet för användning i OpenSSL Toolkit &lt;https://www.openssl.org/&gt; och kryptografisk mjukvara skriven av Eric Young och UPnP mjukvara skriven av Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. KORE Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Kore is probably already running.</source>
         <translation>Kan inte binda till %s på denna dator. KORE Kärna körs förmodligen redan.</translation>
     </message>
     <message>
@@ -4870,7 +4870,7 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Varning: -maxtxfee är sätt väldigt högt! Detta är transaktionsavgiften du kommer betala om du skickar en transaktion.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong KORE Core will not work properly.</source>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Kore will not work properly.</source>
         <translation>Varning: Var vänlig kontrollera att din dators tid och datum är korrekt! Om din klocka är fel så kommer KORE Kärna inte att fungera korrekt.</translation>
     </message>
     <message>
@@ -5022,8 +5022,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The KORE Core Developers</source>
-        <translation>Copyright (C) 2015-%i The KORE Core Developers</translation>
+        <source>Copyright (C) 2015-%i The Kore Developers</source>
+        <translation>Copyright (C) 2015-%i The Kore Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>

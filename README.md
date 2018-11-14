@@ -1,4 +1,4 @@
-KORE Core integration/staging repository
+Kore integration/staging repository
 =====================================
 
 [![Build Status](https://travis-ci.org/KORE-Project/KORE.svg?branch=master)](https://travis-ci.org/KORE-Project/KORE) [![GitHub version](https://badge.fury.io/gh/KORE-Project%2FKORE.svg)](https://badge.fury.io/gh/KORE-Project%2FKORE)

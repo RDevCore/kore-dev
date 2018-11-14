@@ -569,8 +569,8 @@
         <translation>Panel nástrojov Záložky</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Send coins to a KORE address</source>
@@ -589,12 +589,12 @@
         <translation>Prezrieť masternody</translation>
     </message>
     <message>
-        <source>&amp;About KORE Core</source>
-        <translation>O KORE Core</translation>
+        <source>&amp;About Kore</source>
+        <translation>O Kore</translation>
     </message>
     <message>
-        <source>Show information about KORE Core</source>
-        <translation>Zobraziť informácie o KORE Core</translation>
+        <source>Show information about Kore</source>
+        <translation>Zobraziť informácie o Kore</translation>
     </message>
     <message>
         <source>Modify configuration options for KORE</source>
@@ -649,12 +649,12 @@
         <translation>Okno blockchain prehliadača</translation>
     </message>
     <message>
-        <source>Show the KORE Core help message to get a list with possible KORE command-line options</source>
-        <translation>Zobraziť pomocnú správu programu KORE Core a získajte zoznam možností príkazového riadka KORE</translation>
+        <source>Show the Kore help message to get a list with possible KORE command-line options</source>
+        <translation>Zobraziť pomocnú správu programu Kore a získajte zoznam možností príkazového riadka KORE</translation>
     </message>
     <message>
-        <source>KORE Core client</source>
-        <translation>KORE Core klient</translation>
+        <source>Kore client</source>
+        <translation>Kore klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -867,15 +867,15 @@ MultiSend: %1</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1185,8 +1185,8 @@ MultiSend: %1</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     </context>
 <context>

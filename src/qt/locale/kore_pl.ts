@@ -509,7 +509,7 @@
         <translation>&amp;Pomoc</translation>
     </message>
     <message>
-        <source>KORE Core</source>
+        <source>Kore</source>
         <translation>&amp;Rdzeń KORE</translation>
     </message>
     <message>
@@ -529,11 +529,11 @@
         <translation>Przeglądaj masternodes</translation>
     </message>
     <message>
-        <source>&amp;About KORE Core</source>
+        <source>&amp;About Kore</source>
         <translation>&amp;O rdzeniu bitcoina</translation>
     </message>
     <message>
-        <source>Show information about KORE Core</source>
+        <source>Show information about Kore</source>
         <translation>Pokaż informacje o rdzeniu bitcoina</translation>
     </message>
     <message>
@@ -585,11 +585,11 @@
         <translation>Okno eksplorera bloków</translation>
     </message>
     <message>
-        <source>Show the KORE Core help message to get a list with possible KORE command-line options</source>
+        <source>Show the Kore help message to get a list with possible KORE command-line options</source>
         <translation>Pokaż wiadomość pomocy rdzenia KORE, aby dostać listę możliwych opcji KORE command-line</translation>
     </message>
     <message>
-        <source>KORE Core client</source>
+        <source>Kore client</source>
         <translation>Rdzeń KORE klient</translation>
     </message>
     <message>
@@ -899,7 +899,7 @@ MultiWysyłlka: %1</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>KORE Core</source>
+        <source>Kore</source>
         <translation>&amp;Rdzeń KORE</translation>
     </message>
     </context>
@@ -914,7 +914,7 @@ MultiWysyłlka: %1</translation>
         <translation>Użyj niestandardowej ścieżki danych</translation>
     </message>
     <message>
-        <source>KORE Core</source>
+        <source>Kore</source>
         <translation>&amp;Rdzeń KORE</translation>
     </message>
     <message>
@@ -1929,7 +1929,7 @@ https://www.transifex.com/kore-project/kore-project-translations </translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>KORE Core</source>
+        <source>Kore</source>
         <translation>&amp;Rdzeń KORE</translation>
     </message>
     </context>

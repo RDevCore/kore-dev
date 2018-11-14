@@ -645,8 +645,8 @@
         <translation>Tabblad werkbalk</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Send coins to a KORE address</source>
@@ -669,11 +669,11 @@
         <translation>Bekijk masternodes</translation>
     </message>
     <message>
-        <source>&amp;About KORE Core</source>
-        <translation>&amp;Over KORE Core</translation>
+        <source>&amp;About Kore</source>
+        <translation>&amp;Over Kore</translation>
     </message>
     <message>
-        <source>Show information about KORE Core</source>
+        <source>Show information about Kore</source>
         <translation>Toon informatie over KORE Kern</translation>
     </message>
     <message>
@@ -729,12 +729,12 @@
         <translation>Block verkenner venster</translation>
     </message>
     <message>
-        <source>Show the KORE Core help message to get a list with possible KORE command-line options</source>
-        <translation>Toon het KORE Core help bericht om een ​​lijst te krijgen met mogelijke KORE command line opties</translation>
+        <source>Show the Kore help message to get a list with possible KORE command-line options</source>
+        <translation>Toon het Kore help bericht om een ​​lijst te krijgen met mogelijke KORE command line opties</translation>
     </message>
     <message>
-        <source>KORE Core client</source>
-        <translation>KORE Core client</translation>
+        <source>Kore client</source>
+        <translation>Kore client</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to KORE network</source>
@@ -1231,16 +1231,16 @@ MultiSend: %1</translation>
         <translation>versie</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About KORE Core</source>
-        <translation>Over KORE Core</translation>
+        <source>About Kore</source>
+        <translation>Over Kore</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1286,16 +1286,16 @@ MultiSend: %1</translation>
         <translation>Welkom</translation>
     </message>
     <message>
-        <source>Welcome to KORE Core.</source>
-        <translation>Welkom bij KORE Core.</translation>
+        <source>Welcome to Kore.</source>
+        <translation>Welkom bij Kore.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where KORE Core will store its data.</source>
-        <translation>Aangezien dit de eerste keer is dat het programma is gestart, kun je kiezen waar KORE Core zijn data opslaat.</translation>
+        <source>As this is the first time the program is launched, you can choose where Kore will store its data.</source>
+        <translation>Aangezien dit de eerste keer is dat het programma is gestart, kun je kiezen waar Kore zijn data opslaat.</translation>
     </message>
     <message>
-        <source>KORE Core will download and store a copy of the KORE block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>KORE Core zal een kopie van de KORE blockchain downloaden en opslaan. Tenminste %1GB aan data zal worden opgeslagen in deze map en het zal over de tijd groeien. De portemonnee zal ook in deze map worden opgeslagen.</translation>
+        <source>Kore will download and store a copy of the KORE block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Kore zal een kopie van de KORE blockchain downloaden en opslaan. Tenminste %1GB aan data zal worden opgeslagen in deze map en het zal over de tijd groeien. De portemonnee zal ook in deze map worden opgeslagen.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1306,8 +1306,8 @@ MultiSend: %1</translation>
         <translation>Gebruik een aangepaste data directory:</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1935,7 +1935,7 @@ Waas alsjeblieft geduldig nadat u op importeren hebt geklikt.</translation>
     </message>
     <message>
         <source>The user interface language can be set here. This setting will take effect after restarting KORE.</source>
-        <translation>De gebruikersinterface taal kan hier ingesteld worden. Deze instelling zal uitgevoerd na herstart van KORE.</translation>
+        <translation>De gebruikersinterface taal kan hier ingesteld worden. Deze instelling zal uitgevoerd na herstart van KORE.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -4080,8 +4080,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>KORE Core is shutting down...</source>
-        <translation>KORE Core is aan het afsluiten...</translation>
+        <source>Kore is shutting down...</source>
+        <translation>Kore is aan het afsluiten...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4230,7 +4230,7 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>KORE Core</source>
+        <source>Kore</source>
         <translation>KORE Kern</translation>
     </message>
     <message>
@@ -4246,7 +4246,7 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>De Dash Kernontwikkelaars</translation>
     </message>
     <message>
-        <source>The KORE Core developers</source>
+        <source>The Kore developers</source>
         <translation>De KORE Kernontwikkelaars</translation>
     </message>
     <message>
@@ -4911,8 +4911,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Het berekende accumulatie controlepunt is niet wat wordt geregistreerd door de blokindex</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. KORE Core is probably already running.</source>
-        <translation>Kan geen vergrendeling op data directory %s verkrijgen. KORE Core loopt waarschijnlijk al.</translation>
+        <source>Cannot obtain a lock on data directory %s. Kore is probably already running.</source>
+        <translation>Kan geen vergrendeling op data directory %s verkrijgen. Kore loopt waarschijnlijk al.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -5087,8 +5087,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in de OpenSSL Toolkit &lt;https://www.openssl.org/&gt; en cryptografische software geschreven door Eric Young en UPnP software geschreven door Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. KORE Core is probably already running.</source>
-        <translation>Niet mogelijk te binden aan %s op deze computer. KORE Core loopt waarschijnlijk al.</translation>
+        <source>Unable to bind to %s on this computer. Kore is probably already running.</source>
+        <translation>Niet mogelijk te binden aan %s op deze computer. Kore loopt waarschijnlijk al.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -5115,8 +5115,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Waarschuwing: -paytxfee is zeer hoog ingesteld! Dit zijn de transactie kosten die je betaalt als je een transactie verstuurt.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong KORE Core will not work properly.</source>
-        <translation>Waarschuwing: Controleer of de datum en tijd van je computer juist zijn! Als je klok verkeerd staat, werkt KORE Core niet goed.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Kore will not work properly.</source>
+        <translation>Waarschuwing: Controleer of de datum en tijd van je computer juist zijn! Als je klok verkeerd staat, werkt Kore niet goed.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5267,7 +5267,7 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Copyright (C) 2014-%i The Dash Kernontwikkelaars</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The KORE Core Developers</source>
+        <source>Copyright (C) 2015-%i The Kore Developers</source>
         <translation>Copyright (C) 2015-%i The KORE Kernontwikkelaars</translation>
     </message>
     <message>
@@ -5355,8 +5355,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Error tijdens het laden van wallet.dat: Portemonnee corrupt</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of KORE Core</source>
-        <translation>Fout bij het laden van wallet.dat: Portemonnee vereist een nieuwere versie van KORE Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Kore</source>
+        <translation>Fout bij het laden van wallet.dat: Portemonnee vereist een nieuwere versie van Kore</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5471,8 +5471,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Informatie</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. KORE Core is shutting down.</source>
-        <translation>Initialisatie saniteitscontrole mislukt. KORE Core wordt afgesloten.</translation>
+        <source>Initialization sanity check failed. Kore is shutting down.</source>
+        <translation>Initialisatie saniteitscontrole mislukt. Kore wordt afgesloten.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -6295,8 +6295,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Portemonnee is vergrendeld.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart KORE Core to complete</source>
-        <translation>Wallet moest worden herschreven: start KORE Core opnieuw om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart Kore to complete</source>
+        <translation>Wallet moest worden herschreven: start Kore opnieuw om te voltooien</translation>
     </message>
     <message>
         <source>Wallet options:</source>

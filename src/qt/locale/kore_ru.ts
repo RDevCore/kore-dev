@@ -645,8 +645,8 @@
         <translation>Панель вкладок</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Send coins to a KORE address</source>
@@ -669,12 +669,12 @@
         <translation>Обзор мастернод</translation>
     </message>
     <message>
-        <source>&amp;About KORE Core</source>
-        <translation>&amp;О KORE Core</translation>
+        <source>&amp;About Kore</source>
+        <translation>&amp;О Kore</translation>
     </message>
     <message>
-        <source>Show information about KORE Core</source>
-        <translation>Показать информацию о KORE Core</translation>
+        <source>Show information about Kore</source>
+        <translation>Показать информацию о Kore</translation>
     </message>
     <message>
         <source>Modify configuration options for KORE</source>
@@ -729,12 +729,12 @@
         <translation>Окно обзора блока</translation>
     </message>
     <message>
-        <source>Show the KORE Core help message to get a list with possible KORE command-line options</source>
+        <source>Show the Kore help message to get a list with possible KORE command-line options</source>
         <translation>Смотрите помощь к программе, чтобы получить документацию ко всем возможным опциям комманды KORE</translation>
     </message>
     <message>
-        <source>KORE Core client</source>
-        <translation>Клиент KORE Core</translation>
+        <source>Kore client</source>
+        <translation>Клиент Kore</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to KORE network</source>
@@ -1231,16 +1231,16 @@ MultiSend: %1</translation>
         <translation>версия</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-бит)</translation>
     </message>
     <message>
-        <source>About KORE Core</source>
-        <translation>О KORE Core</translation>
+        <source>About Kore</source>
+        <translation>О Kore</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1286,16 +1286,16 @@ MultiSend: %1</translation>
         <translation>Добро пожаловать</translation>
     </message>
     <message>
-        <source>Welcome to KORE Core.</source>
-        <translation>Добро пожаловать в KORE Core.</translation>
+        <source>Welcome to Kore.</source>
+        <translation>Добро пожаловать в Kore.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where KORE Core will store its data.</source>
-        <translation>Поскольку это первый запуск программы, вы можете выбрать, где будут храниться данные KORE Core.</translation>
+        <source>As this is the first time the program is launched, you can choose where Kore will store its data.</source>
+        <translation>Поскольку это первый запуск программы, вы можете выбрать, где будут храниться данные Kore.</translation>
     </message>
     <message>
-        <source>KORE Core will download and store a copy of the KORE block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>KORE Core загрузит и сохранит копию цепочки блоков KORE. Каталог будет занимать около %1GB и со временем размер будет увеличиваться. Кроме того, в этом каталоге будет храниться кошелек.</translation>
+        <source>Kore will download and store a copy of the KORE block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Kore загрузит и сохранит копию цепочки блоков KORE. Каталог будет занимать около %1GB и со временем размер будет увеличиваться. Кроме того, в этом каталоге будет храниться кошелек.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1306,8 +1306,8 @@ MultiSend: %1</translation>
         <translation>Использовать другой каталог данных:</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2156,7 +2156,7 @@ https://www.transifex.com/kore-project/kore-project-translations</translation>
     </message>
     <message>
         <source>Your current KORE balance, unconfirmed and immature transactions included</source>
-        <translation>Ваш текущий KORE  баланс, включая неподтвержденные и незрелые транзакции</translation>
+        <translation>Ваш текущий KORE  баланс, включая неподтвержденные и незрелые транзакции</translation>
     </message>
     <message>
         <source>zKORE Balance</source>
@@ -2411,7 +2411,7 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in kore.conf<
     </message>
     <message>
         <source>Rescan the complete blockchain for  Zerocoin mints and their meta-data.</source>
-        <translation>Пересканировать  завершенную блокчейн для Zerocoin  чеканки и мета данных</translation>
+        <translation>Пересканировать  завершенную блокчейн для Zerocoin  чеканки и мета данных</translation>
     </message>
     <message>
         <source>ReScan</source>
@@ -3743,7 +3743,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for KORE transactions than the network can process.</source>
-        <translation>Платить только минимальную плату просто отлично, если в блоке меньше объема транзакции, чем места в блоке.&lt;br /&gt; Но имейте в виду, что это может закончиться никогда не подтверждающей транзакцией, если будет больше спроса на транзакции KORE, чем сеть может обрабатывать.</translation>
+        <translation>Платить только минимальную плату просто отлично, если в блоке меньше объема транзакции, чем места в блоке.&lt;br /&gt; Но имейте в виду, что это может закончиться никогда не подтверждающей транзакцией, если будет больше спроса на транзакции KORE, чем сеть может обрабатывать.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -4008,8 +4008,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>KORE Core is shutting down...</source>
-        <translation>KORE Core выключается...</translation>
+        <source>Kore is shutting down...</source>
+        <translation>Kore выключается...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4158,8 +4158,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4174,8 +4174,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Разработчики Dash Core</translation>
     </message>
     <message>
-        <source>The KORE Core developers</source>
-        <translation>Разработчики KORE Core</translation>
+        <source>The Kore developers</source>
+        <translation>Разработчики Kore</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4791,8 +4791,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Расчетная контрольная точка  не является тем, что регистрируется блочным индексом</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. KORE Core is probably already running.</source>
-        <translation>Не удается получить блокировку в каталоге данных %s. KORE Core, вероятно, уже запущен.</translation>
+        <source>Cannot obtain a lock on data directory %s. Kore is probably already running.</source>
+        <translation>Не удается получить блокировку в каталоге данных %s. Kore, вероятно, уже запущен.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4951,8 +4951,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Этот продукт включает программное обеспечение, разработанное OpenSSL Project для использования в OpenSSL Toolkit &lt;https://www.openssl.org/&gt; и криптографическом программном обеспечении, написанном Эриком Яном и программным обеспечением UPnP, написанным Томасом Бернардом.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. KORE Core is probably already running.</source>
-        <translation>Не удалось привязать к %s на этом компьютере. KORE Core, вероятно, уже запущен.</translation>
+        <source>Unable to bind to %s on this computer. Kore is probably already running.</source>
+        <translation>Не удалось привязать к %s на этом компьютере. Kore, вероятно, уже запущен.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -4979,8 +4979,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Предупреждение: -paytxfee установлен очень высоко! Это комиссия за транзакцию, которую вы заплатите, если вы отправляете транзакцию.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong KORE Core will not work properly.</source>
-        <translation>Внимание: проверьте правильность даты и времени вашего компьютера! Если ваши часы ошибочны, KORE Core не будет работать должным образом.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Kore will not work properly.</source>
+        <translation>Внимание: проверьте правильность даты и времени вашего компьютера! Если ваши часы ошибочны, Kore не будет работать должным образом.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5131,8 +5131,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Copyright (C) 2014-%i Разработчики Dash Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The KORE Core Developers</source>
-        <translation>Copyright (C) 2015-%i Разработчики KORE Core</translation>
+        <source>Copyright (C) 2015-%i The Kore Developers</source>
+        <translation>Copyright (C) 2015-%i Разработчики Kore</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5219,8 +5219,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Ошибка при загрузке wallet.dat: Кошелек поврежден</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of KORE Core</source>
-        <translation>Ошибка загрузки wallet.dat: Кошелек требует более новой версии KORE Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Kore</source>
+        <translation>Ошибка загрузки wallet.dat: Кошелек требует более новой версии Kore</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5335,8 +5335,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Информация</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. KORE Core is shutting down.</source>
-        <translation>Инициализация проверки работоспособности не удалась. KORE Core отключается.</translation>
+        <source>Initialization sanity check failed. Kore is shutting down.</source>
+        <translation>Инициализация проверки работоспособности не удалась. Kore отключается.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -6115,8 +6115,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Кошелек заблокирован.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart KORE Core to complete</source>
-        <translation>Кошелек необходимо переписать: перезапустите KORE Core, чтобы завершить</translation>
+        <source>Wallet needed to be rewritten: restart Kore to complete</source>
+        <translation>Кошелек необходимо переписать: перезапустите Kore, чтобы завершить</translation>
     </message>
     <message>
         <source>Wallet options:</source>

@@ -637,7 +637,7 @@
         <translation>Sekme tablosu</translation>
     </message>
     <message>
-        <source>KORE Core</source>
+        <source>Kore</source>
         <translation>KORE CORE</translation>
     </message>
     <message>
@@ -661,11 +661,11 @@
         <translation>Masternodları ara</translation>
     </message>
     <message>
-        <source>&amp;About KORE Core</source>
+        <source>&amp;About Kore</source>
         <translation>Pıvx core Hakkında</translation>
     </message>
     <message>
-        <source>Show information about KORE Core</source>
+        <source>Show information about Kore</source>
         <translation>Pıvx Core hakkında bilgi göster</translation>
     </message>
     <message>
@@ -721,12 +721,12 @@
         <translation>Kaşif penceresini engelle</translation>
     </message>
     <message>
-        <source>Show the KORE Core help message to get a list with possible KORE command-line options</source>
-        <translation>Olası KORE komut satırı seçeneklerine sahip bir liste almak için KORE Core yardım mesajını gösterin</translation>
+        <source>Show the Kore help message to get a list with possible KORE command-line options</source>
+        <translation>Olası KORE komut satırı seçeneklerine sahip bir liste almak için Kore yardım mesajını gösterin</translation>
     </message>
     <message>
-        <source>KORE Core client</source>
-        <translation>KORE Core istemci</translation>
+        <source>Kore client</source>
+        <translation>Kore istemci</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1200,7 +1200,7 @@ Adres: %4
         <translation>versiyon</translation>
     </message>
     <message>
-        <source>KORE Core</source>
+        <source>Kore</source>
         <translation>KORE CORE</translation>
     </message>
     <message>
@@ -1208,8 +1208,8 @@ Adres: %4
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About KORE Core</source>
-        <translation>hakkında KORE Core</translation>
+        <source>About Kore</source>
+        <translation>hakkında Kore</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1255,16 +1255,16 @@ Adres: %4
         <translation>Hoşgeldiniz</translation>
     </message>
     <message>
-        <source>Welcome to KORE Core.</source>
-        <translation>KORE Core'a hoşgeldiniz.</translation>
+        <source>Welcome to Kore.</source>
+        <translation>Kore'a hoşgeldiniz.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where KORE Core will store its data.</source>
-        <translation>Program ilk başlatıldığında KORE Core'un verilerini nerede saklayacağını seçebilirsiniz.</translation>
+        <source>As this is the first time the program is launched, you can choose where Kore will store its data.</source>
+        <translation>Program ilk başlatıldığında Kore'un verilerini nerede saklayacağını seçebilirsiniz.</translation>
     </message>
     <message>
-        <source>KORE Core will download and store a copy of the KORE block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>KORE Core, KORE blok zincirinin bir kopyasını indirecek ve depolayacaktır. Bu dizinde en az %1GB veri saklanacak ve zamanla büyüyecek. Cüzdan ayrıca bu dizinde saklanır.</translation>
+        <source>Kore will download and store a copy of the KORE block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Kore, KORE blok zincirinin bir kopyasını indirecek ve depolayacaktır. Bu dizinde en az %1GB veri saklanacak ve zamanla büyüyecek. Cüzdan ayrıca bu dizinde saklanır.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1275,7 +1275,7 @@ Adres: %4
         <translation>Özel bir veri dizini kullanın:</translation>
     </message>
     <message>
-        <source>KORE Core</source>
+        <source>Kore</source>
         <translation>KORE CORE</translation>
     </message>
     <message>
@@ -2534,7 +2534,7 @@ zKORE, 20'den fazla teyit bulunduğunda olgunlaşır ve bundan sonra aynı mezhe
     </message>
     <message>
         <source>Denominations with value 500:</source>
-        <translation> Denom. değeri ile 500:</translation>
+        <translation> Denom. değeri ile 500:</translation>
     </message>
     <message>
         <source>Denom. with value 500:</source>
@@ -3750,8 +3750,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>KORE Core is shutting down...</source>
-        <translation>KORE Core kapanıyor ...</translation>
+        <source>Kore is shutting down...</source>
+        <translation>Kore kapanıyor ...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3900,7 +3900,7 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>KORE Core</source>
+        <source>Kore</source>
         <translation>KORE CORE</translation>
     </message>
     <message>
@@ -3916,8 +3916,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>The Dash Core developers</translation>
     </message>
     <message>
-        <source>The KORE Core developers</source>
-        <translation>The KORE Core developers</translation>
+        <source>The Kore developers</source>
+        <translation>The Kore developers</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4513,8 +4513,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Hesaplanan akümülatör kontrol noktası, blok indeksiyle kaydedilen kontrol noktası değildir.</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. KORE Core is probably already running.</source>
-        <translation>Veri dizini %s üzerinde bir kilit elde edemiyor. KORE Core muhtemelen zaten çalışıyor.</translation>
+        <source>Cannot obtain a lock on data directory %s. Kore is probably already running.</source>
+        <translation>Veri dizini %s üzerinde bir kilit elde edemiyor. Kore muhtemelen zaten çalışıyor.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>

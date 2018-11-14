@@ -645,8 +645,8 @@
         <translation>Onglets de la barre d'outils</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Send coins to a KORE address</source>
@@ -669,12 +669,12 @@
         <translation>Afficher les masternodes</translation>
     </message>
     <message>
-        <source>&amp;About KORE Core</source>
-        <translation>A &amp;propos de KORE Core</translation>
+        <source>&amp;About Kore</source>
+        <translation>A &amp;propos de Kore</translation>
     </message>
     <message>
-        <source>Show information about KORE Core</source>
-        <translation>Afficher les information concernant KORE Core</translation>
+        <source>Show information about Kore</source>
+        <translation>Afficher les information concernant Kore</translation>
     </message>
     <message>
         <source>Modify configuration options for KORE</source>
@@ -729,12 +729,12 @@
         <translation>Fenêtre de Explorateur de Bloc</translation>
     </message>
     <message>
-        <source>Show the KORE Core help message to get a list with possible KORE command-line options</source>
-        <translation>Afficher les message d'aide de KORE Core pour avoir les options pour ligne de commande</translation>
+        <source>Show the Kore help message to get a list with possible KORE command-line options</source>
+        <translation>Afficher les message d'aide de Kore pour avoir les options pour ligne de commande</translation>
     </message>
     <message>
-        <source>KORE Core client</source>
-        <translation>KORE Core client</translation>
+        <source>Kore client</source>
+        <translation>Kore client</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1099,16 +1099,16 @@ Adresse : %4
         <translation>version</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About KORE Core</source>
-        <translation>A propos de KORE Core</translation>
+        <source>About Kore</source>
+        <translation>A propos de Kore</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1138,12 +1138,12 @@ Adresse : %4
         <translation>Bienvenu</translation>
     </message>
     <message>
-        <source>Welcome to KORE Core.</source>
-        <translation>Bienvenue à KORE Core</translation>
+        <source>Welcome to Kore.</source>
+        <translation>Bienvenue à Kore</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where KORE Core will store its data.</source>
-        <translation>Comme c'est la première fois que le programme est lancé, vous pouvez choisir où KORE Core va stocker ses données.</translation>
+        <source>As this is the first time the program is launched, you can choose where Kore will store its data.</source>
+        <translation>Comme c'est la première fois que le programme est lancé, vous pouvez choisir où Kore va stocker ses données.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1154,8 +1154,8 @@ Adresse : %4
         <translation>Utiliser un répertoire spécifique de données </translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2118,8 +2118,8 @@ Veuillez vérifier l'adresse et réessayer.</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     </context>
 <context>

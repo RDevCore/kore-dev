@@ -645,7 +645,7 @@
         <translation>Колан с инструменти</translation>
     </message>
     <message>
-        <source>KORE Core</source>
+        <source>Kore</source>
         <translation>KORE Ядро</translation>
     </message>
     <message>
@@ -669,11 +669,11 @@
         <translation>Разгледай мастърноудове</translation>
     </message>
     <message>
-        <source>&amp;About KORE Core</source>
+        <source>&amp;About Kore</source>
         <translation>&amp;Относно KORE Ядрото</translation>
     </message>
     <message>
-        <source>Show information about KORE Core</source>
+        <source>Show information about Kore</source>
         <translation>Информациза за KORE Ядрото</translation>
     </message>
     <message>
@@ -729,11 +729,11 @@
         <translation>Прозорец на блок сондата</translation>
     </message>
     <message>
-        <source>Show the KORE Core help message to get a list with possible KORE command-line options</source>
+        <source>Show the Kore help message to get a list with possible KORE command-line options</source>
         <translation>Разкрийте Помощ за KORE Ядрото, за да видите списък с възможни писмени команди.</translation>
     </message>
     <message>
-        <source>KORE Core client</source>
+        <source>Kore client</source>
         <translation>Клиент KORE Ядро</translation>
     </message>
     <message numerus="yes">
@@ -1227,7 +1227,7 @@ Address: %4
         <translation>версия</translation>
     </message>
     <message>
-        <source>KORE Core</source>
+        <source>Kore</source>
         <translation>KORE Ядро</translation>
     </message>
     <message>
@@ -1235,7 +1235,7 @@ Address: %4
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About KORE Core</source>
+        <source>About Kore</source>
         <translation>Относно KORE Ядрото</translation>
     </message>
     <message>
@@ -1282,15 +1282,15 @@ Address: %4
         <translation>Привет</translation>
     </message>
     <message>
-        <source>Welcome to KORE Core.</source>
+        <source>Welcome to Kore.</source>
         <translation>Добре Дошли в KORE Ядрото</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where KORE Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Kore will store its data.</source>
         <translation>Тъй като това е първия път, в който стартирате програмата, имате възможността да изберете къде KORE Ядрото ще съхранява своите данни.</translation>
     </message>
     <message>
-        <source>KORE Core will download and store a copy of the KORE block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Kore will download and store a copy of the KORE block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>KORE Ядрото ще изтегли и запише копие на целия KORE блокчейн. Поне %1 гигабайта ще бъдат съхранявани в тази папка, като тенденцията е файла да расте. Портфейла също ще бъде запазен в тази папка.</translation>
     </message>
     <message>
@@ -1302,7 +1302,7 @@ Address: %4
         <translation>Задай своя папка за данни:</translation>
     </message>
     <message>
-        <source>KORE Core</source>
+        <source>Kore</source>
         <translation>KORE Ядро</translation>
     </message>
     <message>
@@ -4000,7 +4000,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>KORE Core is shutting down...</source>
+        <source>Kore is shutting down...</source>
         <translation>Изключване на KORE Ядрото...</translation>
     </message>
     <message>
@@ -4150,7 +4150,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>KORE Core</source>
+        <source>Kore</source>
         <translation>KORE Ядро</translation>
     </message>
     <message>
@@ -4166,8 +4166,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Dash Core разработчици</translation>
     </message>
     <message>
-        <source>The KORE Core developers</source>
-        <translation>KORE Core разработчици</translation>
+        <source>The Kore developers</source>
+        <translation>Kore разработчици</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4783,7 +4783,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Изчисления чекпойнт на акумулатора не е същия като записания в блок индекса.</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. KORE Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Kore is probably already running.</source>
         <translation>Не може да заключи папката с данни %s. KORE Портфейла вероятно вече е стартиран.</translation>
     </message>
     <message>
@@ -4943,7 +4943,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Този продукт включва софтуер разработен от OpenSSL Project &lt;https://www.openssl.org/&gt; и крипто софтуер написан от Ерик Юнг и UPnP софтуер от Томас Бернард.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. KORE Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Kore is probably already running.</source>
         <translation>Не може да се прикачи към %s на този компютър. KORE Портфейла вероятно вече е стартиран.</translation>
     </message>
     <message>
@@ -4971,7 +4971,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Внимание: -paytxfee е зададена твърде голяма! Това е преводната такса, която ще платите ако изпратите този превод.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong KORE Core will not work properly.</source>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Kore will not work properly.</source>
         <translation>Внимание: Проверете дали датата и часа на компютъра са верни! Ако Вашият часовник греши, KORE Портфейла няма да работи правилно.</translation>
     </message>
     <message>
@@ -5123,8 +5123,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Всички права запазени (c) 2014-%i Dash Core разработчици</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The KORE Core Developers</source>
-        <translation>Всички права запазени (c) 2015-%i KORE Core разработчици</translation>
+        <source>Copyright (C) 2015-%i The Kore Developers</source>
+        <translation>Всички права запазени (c) 2015-%i Kore разработчици</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5211,7 +5211,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Грешка в зареждането на wallet.dat: Портфейла е повреден</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of KORE Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Kore</source>
         <translation>Грешка в зареждането на wallet.dat: Портфейла изисква по-нова версия</translation>
     </message>
     <message>
@@ -5327,7 +5327,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Информация</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. KORE Core is shutting down.</source>
+        <source>Initialization sanity check failed. Kore is shutting down.</source>
         <translation>Стартирането на проверка на здравословното състояние на портфейла се провали. Изключваме Портфейла.</translation>
     </message>
     <message>
@@ -6107,7 +6107,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Портфейла е заключен.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart KORE Core to complete</source>
+        <source>Wallet needed to be rewritten: restart Kore to complete</source>
         <translation>Портфейла трябва да се пренапише: рестартирайте програмата за завършване на процеса</translation>
     </message>
     <message>

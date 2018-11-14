@@ -16,7 +16,7 @@ BITCOIND_USER=${BITCOIND_USER:-kore}
 BITCOIND_GROUP=${BITCOIND_GROUP:-kore}
 BITCOIND_BIN=${BITCOIND_BIN:-/usr/bin/kored}
 
-name="KORE Core Daemon"
+name="Kore Daemon"
 description="KORE crypto-currency p2p network daemon"
 
 command="/usr/bin/kored"

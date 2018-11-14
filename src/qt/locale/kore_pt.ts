@@ -1250,8 +1250,8 @@
         <translation>Carteira esta bloqueada.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart KORE Core to complete</source>
-        <translation>Carteira precisa ser reescrita: reinicie o KORE Core para completar.</translation>
+        <source>Wallet needed to be rewritten: restart Kore to complete</source>
+        <translation>Carteira precisa ser reescrita: reinicie o Kore para completar.</translation>
     </message>
     <message>
         <source>Wallet options:</source>

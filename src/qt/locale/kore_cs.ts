@@ -601,8 +601,8 @@
         <translation>Nástrojová lišta záložek</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Send coins to a KORE address</source>
@@ -625,12 +625,12 @@
         <translation>Procházet masternody</translation>
     </message>
     <message>
-        <source>&amp;About KORE Core</source>
-        <translation>&amp;O KORE Core</translation>
+        <source>&amp;About Kore</source>
+        <translation>&amp;O Kore</translation>
     </message>
     <message>
-        <source>Show information about KORE Core</source>
-        <translation>Zobraz informace o KORE Core</translation>
+        <source>Show information about Kore</source>
+        <translation>Zobraz informace o Kore</translation>
     </message>
     <message>
         <source>Modify configuration options for KORE</source>
@@ -685,12 +685,12 @@
         <translation>Okno blokového průzkumníka</translation>
     </message>
     <message>
-        <source>Show the KORE Core help message to get a list with possible KORE command-line options</source>
-        <translation>Zobrazit KORE Core pomocnou zpráv pro získání seznamu možných parametrů KORE pro příkazy do příkazové řádky</translation>
+        <source>Show the Kore help message to get a list with possible KORE command-line options</source>
+        <translation>Zobrazit Kore pomocnou zpráv pro získání seznamu možných parametrů KORE pro příkazy do příkazové řádky</translation>
     </message>
     <message>
-        <source>KORE Core client</source>
-        <translation>KORE Core klient</translation>
+        <source>Kore client</source>
+        <translation>Kore klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1127,12 +1127,12 @@ MultiSend: %1</translation>
         <translation>verze</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
-        <source>About KORE Core</source>
-        <translation>O KORE Core</translation>
+        <source>About Kore</source>
+        <translation>O Kore</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1166,16 +1166,16 @@ MultiSend: %1</translation>
         <translation>Vítejte</translation>
     </message>
     <message>
-        <source>Welcome to KORE Core.</source>
-        <translation>Vítejte v KORE Core.</translation>
+        <source>Welcome to Kore.</source>
+        <translation>Vítejte v Kore.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where KORE Core will store its data.</source>
-        <translation>Při prvním spuštění programu si můžete vybrat, kam bude KORE Core ukládat svá data.</translation>
+        <source>As this is the first time the program is launched, you can choose where Kore will store its data.</source>
+        <translation>Při prvním spuštění programu si můžete vybrat, kam bude Kore ukládat svá data.</translation>
     </message>
     <message>
-        <source>KORE Core will download and store a copy of the KORE block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>KORE Core stáhne a uloží kopii KORE blockchainu. Nejméně %1GB dat bude do této složky uloženo a v průběhu času bude ukládat další data. Peněženka bude v této složce uložena také.</translation>
+        <source>Kore will download and store a copy of the KORE block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Kore stáhne a uloží kopii KORE blockchainu. Nejméně %1GB dat bude do této složky uloženo a v průběhu času bude ukládat další data. Peněženka bude v této složce uložena také.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1186,8 +1186,8 @@ MultiSend: %1</translation>
         <translation>Použít vlastní složku pro data</translation>
     </message>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2291,8 +2291,8 @@ Prosím zkontrolujte adresu a zkuste to znovu.</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>KORE Core</source>
-        <translation>KORE Core</translation>
+        <source>Kore</source>
+        <translation>Kore</translation>
     </message>
     </context>
 <context>
